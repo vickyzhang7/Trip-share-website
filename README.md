@@ -2,18 +2,51 @@
 
 ## Introduction
 
-**Project Summary**:
+**Summary:**
 
-This project is a full-stack web development 
-**Key Highlights**:
+Trip Share Website is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to enable users to share travel photos and experiences. This project encompasses both frontend and backend development, along with integration with the Google Maps Platform API, providing rich functionality and interactivity.
 
-1. **Front-End Proficiency**: 
+**Frontend:**
 
-2. **Back-End Data Management**: 
-3. **Rich Functionality**: 
+1. **Using React.js to Build Frontend Views:**
+   - Utilizing React.js to construct user-friendly frontend views.
+   - React.js offers a component-based approach for building user interfaces.
 
+2. **Utilizing BrowserRouter and Route Components to Create Multiple Pages and Routes:**
+   - Employing the `BrowserRouter` and `Route` components from the `react-router-dom` package to establish different pages and routes.
+   - Allowing users to navigate to various sections of the application.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+3. **Using React's Context and Custom useAuth Hook to Manage User Authentication and Tokens:**
+   - Leveraging React's Context API to share user authentication information.
+   - Employing a custom `useAuth` hook to access and manage user authentication states.
+
+4. **Implementing User Registration, Login, and Logout Functionality for Secure Authentication:**
+   - Creating registration and login forms to collect user data.
+   - Utilizing the `fetch` function or other HTTP request libraries to send user data to the backend for authentication.
+   - Managing user login status using tokens and enabling logout functionality.
+
+5. **Providing User the Ability to Create, Edit, and Delete Travel Records:**
+   - Developing forms and user interfaces to allow users to create, edit, and delete travel records.
+   - Using HTTP requests to send travel record information to the backend for processing.
+
+**Backend:**
+
+1. **Using Node.js and Express to Build Backend, Providing RESTful API for Interaction with MongoDB Database:**
+   - Building an API server using Node.js and Express to facilitate data interaction between the frontend and MongoDB database.
+   
+2. **Integrating the mongoose Package for Data Modeling and Database Operations:**
+   - Incorporating the `mongoose` package to define data models and perform database operations.
+   
+3. **Implementing File Upload and Storage for User-Submitted Travel Photos:**
+   - Utilizing file upload middleware (such as `multer`) to handle and store user-uploaded travel photos on the server.
+
+4. **Handling Cross-Origin Requests to Ensure Secure Communication Between Frontend and Backend:**
+   - Adding cross-origin request handling middleware (such as `cors`) to ensure secure communication between the frontend and backend.
+
+5. **Implementing User Management, Including Authentication and Authorization:**
+   - Creating routes for user registration and login.
+   - Employing the `bcrypt` library to securely process passwords.
+   - Using JSON Web Tokens (JWT) for user authentication and authorization.
 
 
 **Major frameworks and libraries**:
