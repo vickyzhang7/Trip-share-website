@@ -45,6 +45,86 @@ This project is a full-stack web development
 
 ## Getting Started
 
+
+# Trip Share Website
+
+This repository contains a web application for sharing trip information.
+
+## Getting Started
+
+To set up and run this project, follow these steps:
+
+1. Clone the repository
+   ```sh
+   gh repo clone vickyzhang7/Trip-share-website
+   ```
+   This command clones the project repository to your local machine.
+
+### Backend Setup
+
+2. Open the `app.js` and `location.js` files and input your API key.
+   ```js
+   const API_KEY = 'YOUR KEY';
+   ```
+   Replace 'YOUR KEY' with your actual API key.
+
+3. Install Mongoose version 6
+   ```sh
+   npm install mongoose@6
+   ```
+   This command installs the required Mongoose version.
+
+4. Start the backend server
+   ```sh
+   npm start
+   ```
+   This command starts the backend server for the application.
+
+### Frontend Setup
+
+5. Install NVM (Node Version Manager)
+   ```sh
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+   ```
+   This command installs NVM, a tool for managing Node.js versions.
+
+6. Activate NVM
+   ```sh
+   source ~/.nvm/nvm.sh
+   ```
+   This command activates NVM for use.
+
+7. Install Node.js version 14
+   ```sh
+   nvm install 14
+   ```
+   This command installs Node.js version 14, which is required for the project.
+
+8. Check Node.js version
+   ```sh
+   node -v
+   ```
+   Verify that Node.js 14 is successfully installed.
+
+9. Install frontend project dependencies
+   ```sh
+   npm install
+   ```
+   This command installs the necessary frontend project dependencies.
+
+10. Start the frontend
+    ```sh
+    npm start
+    ```
+    This command starts the frontend of the web application.
+
+These steps will help you clone the repository, set up the backend, and configure the frontend, allowing you to start development or run the project. If you have any questions or encounter any issues, feel free to contact us.
+
+Please note that you should replace 'YOUR KEY' in the `app.js` and `location.js` files with your actual API key to enable the application's functionality.
+
+
+
+
 1. Clone the repo
    ```sh
    gh repo clone vickyzhang7/Real-or-Fake-Facts
