@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Summary:**
+**Summary**:
 
 Trip Share Website is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to enable users to share travel photos and experiences. This project encompasses both frontend and backend development, along with integration with the Google Maps Platform API, providing rich functionality and interactivity.
 
