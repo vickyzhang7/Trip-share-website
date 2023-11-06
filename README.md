@@ -110,19 +110,41 @@ These steps will help you clone the repository, set up the back end, and configu
 1. **Initial Interface (No Users)**:
    - Upon the initial launch of the application, users will encounter a screen displaying "No users" since no user information is pre-stored. Authentication is required for further access.
 
+     <img width="1208" alt="Screenshot 2023-11-05 at 6 25 53 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/385d9455-2f11-41a1-89d5-cead7d4f0701">
+
+
 2. **Sign Up**:
    - Users can create an account by providing their name, email, password, and a profile picture. If a username or email is already in use, the system will prompt that the user already exists.
+
+     <img width="1208" alt="Screenshot 2023-11-05 at 6 33 29 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/4d5e9e28-03fe-4b8e-ad3d-55d291378d5e">
+
 
 3. **Log In**:
    - Registered users can log in to the application to share their travel experiences.
 
+     <img width="1208" alt="Screenshot 2023-11-05 at 6 36 15 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/0a86ccfa-e0cc-44b5-ae51-a3e49303ce98">
+
+
 4. **Manage Travel Records**:
    - Users can edit, delete, and view the specific locations of their travel records on Google Maps.
 
-5. **Browse All User Travels**:
-   - Users can explore and view the travel records of other users. However, they do not have the permission to modify others' travel records.
+     <img width="1228" alt="Screenshot 2023-11-05 at 7 41 11 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/7ae4f06d-f504-4a90-8f2c-d9c2fb026eef">
 
-These descriptions provide an overview of the key features and functionalities of the application.
+
+5. **Browse All User Travels**:
+   - Users can explore and view the travel records of other users. However, they do not have the permission to modify others' travel records. Users can view the detailed addresses of locations shared by other users on Google Maps.
+     <img width="1239" alt="Screenshot 2023-11-05 at 7 50 28 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/42781e21-9ec6-4476-9e9c-c4fd06395a9e">
+
+
+
+6. **Final Dashboard (User Summary)**:
+
+   - The final screenshot provides a summary of all users' information and activities, offering insights into the top contributors and their travel experiences.
+
+     <img width="1228" alt="Screenshot 2023-11-05 at 7 50 08 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/49bd808a-ef55-4811-9f9d-320fd997b0c2">
+
+
+
 
 ## interface screenshot
 
