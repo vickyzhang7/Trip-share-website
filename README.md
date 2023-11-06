@@ -104,6 +104,26 @@ These steps will help you clone the repository, set up the back end, and configu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Interface Screenshots
+
+1. **Initial Interface (No Users)**:
+   - Upon the initial launch of the application, users will encounter a screen displaying "No users" since no user information is pre-stored. Authentication is required for further access.
+
+2. **Sign Up**:
+   - Users can create an account by providing their name, email, password, and a profile picture. If a username or email is already in use, the system will prompt that the user already exists.
+
+3. **Log In**:
+   - Registered users can log in to the application to share their travel experiences.
+
+4. **Manage Travel Records**:
+   - Users can edit, delete, and view the specific locations of their travel records on Google Maps.
+
+5. **Browse All User Travels**:
+   - Users can explore and view the travel records of other users. However, they do not have the permission to modify others' travel records.
+
+These descriptions provide an overview of the key features and functionalities of the application.
+
 ## interface screenshot
 
  1. **Database Browsing**:
