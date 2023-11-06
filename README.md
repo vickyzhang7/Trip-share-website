@@ -45,14 +45,7 @@ This project is a full-stack web development
 
 ## Getting Started
 
-
-# Trip Share Website
-
-This repository contains a web application for sharing trip information.
-
-## Getting Started
-
-To set up and run this project, follow these steps:
+These steps will help you clone the repository, set up the back end, and configure the front end, allowing you to start development or run the project. To set up and run this project, follow these steps:
 
 1. Clone the repository
    ```sh
@@ -118,35 +111,8 @@ To set up and run this project, follow these steps:
     ```
     This command starts the frontend of the web application.
 
-These steps will help you clone the repository, set up the backend, and configure the frontend, allowing you to start development or run the project. If you have any questions or encounter any issues, feel free to contact us.
-
-Please note that you should replace 'YOUR KEY' in the `app.js` and `location.js` files with your actual API key to enable the application's functionality.
 
 
-
-
-1. Clone the repo
-   ```sh
-   gh repo clone vickyzhang7/Real-or-Fake-Facts
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Enter your API in `script.js` and `supabase.js`
-   ```js
-   const res = await fetch("YOUR FACTS", {
-    headers: {
-      apikey: "YOUR API KEY",
-      authorization: "Bearer YOUR API KEY",
-    },});
-   ```
-
-4. Start
-   ```sh
-   npm start
-   ```
-   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## interface screenshot
