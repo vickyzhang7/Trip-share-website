@@ -33,6 +33,7 @@ Trip Share Website is a full-stack MERN (MongoDB, Express, React, Node.js) appli
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 **Frontend:**
 
 1. **Using React.js to Build Frontend Views:**
