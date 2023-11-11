@@ -12,9 +12,11 @@ Trip Share Website is a full-stack MERN (MongoDB, Express, React, Node.js) appli
 * [![React][React-icon]][React-url]
 * [![HTML][HTML-icon]][HTML-url]
 * [![CSS][CSS-icon]][CSS-url]
+* [![Git][Git-icon]][Git-url]
 * [![Postman][Postman-icon]][Postman-url]
 * [![NodeJS][NodeJS-icon]][NodeJS-ul]
 * [![MongoDB][MongoDB-icon]][MongoDB-ul]
+  
 
 [React-url]:https://reactjs.org/
 [React-icon]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
@@ -24,6 +26,8 @@ Trip Share Website is a full-stack MERN (MongoDB, Express, React, Node.js) appli
 [CSS-icon]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript-url]:https://www.javascript.com/
 [JavaScript-icon]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Git-icon]:	https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[Git-url]:https://git-scm.com/
 [NodeJS-icon]:https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJS-ul]:https://nodejs.org/en
 [MongoDB-icon]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
