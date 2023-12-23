@@ -95,7 +95,7 @@ Trip Share Website is a full-stack MERN (MongoDB, Express, React, Node.js) appli
 
 
 2. **Sign Up**:
-   - Users can create an account by providing their name, email, password, and a profile picture. If a username or email is already in use, the system will prompt that the user already exists.
+   - Users can create an account by providing their name, email, password, and profile picture. If a username or email is already in use, the system will prompt that the user already exists.
 
      <img width="1208" alt="Screenshot 2023-11-05 at 6 33 29 PM" src="https://github.com/vickyzhang7/Trip-share-website/assets/130918669/4d5e9e28-03fe-4b8e-ad3d-55d291378d5e">
 
